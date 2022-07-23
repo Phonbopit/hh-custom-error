@@ -1,6 +1,6 @@
 # Custom Error - Solidity
 
-บทความ Solidity Custom Error โดยใช้ Sample Hardhat Project
+[บทความ Solidity Custom Error](https://devahoy.com/blog/solidity-custom-error) โดยใช้ Sample Hardhat Project
 
 ---
 
